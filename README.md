@@ -1,6 +1,7 @@
 # MLT
 Tutorials grafted for MLT team at HSBC
-Potential further tutorials :
+
+  Potential further tutorials :
   1. https://beckernick.github.io/logistic-regression-from-scratch/
   2. https://www.analyticsvidhya.com/blog/2015/10/basics-logistic-regression/
   3. https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
